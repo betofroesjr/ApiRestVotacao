@@ -1,7 +1,5 @@
 # ApiRestVotacao
 
-# ApiRestVotacao
-
 Um parágrafo da descrição do projeto vai aqui
 
 ## 🚀 Começando
